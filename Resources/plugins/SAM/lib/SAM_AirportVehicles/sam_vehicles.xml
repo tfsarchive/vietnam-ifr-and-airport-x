@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<traffic>
+    <airportvehicles>
+        <region livery="/liveries/default_NA/">
+            <tags>
+                <tag>*</tag>
+            </tags>
+            <vehicles>
+				<vehicle dataref="sam/airportvehicle/hello/belt_loader" object="/objects/default_NA/loader/loader.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/bus" object="/objects/default_NA/bus/bus.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/cart" object="/objects/default_NA/cart/cart.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/catering" object="/objects/default_NA/catering/catering.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_pump_truck" object="/objects/default_NA/fuel/fuel_pump_truck.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_truck_large" object="/objects/default_NA/fuel/fuel_truck_large.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_truck_small" object="/objects/default_NA/fuel/fuel_truck_small.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/gpu" object="/objects/default_NA/gpu/gpu.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>				
+				<vehicle dataref="sam/airportvehicle/hello/tug" object="/objects/default_NA/tug/tug.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+            </vehicles>
+        </region>
+        <region livery="/liveries/default_NA/">
+            <tags>
+                <tag>K*</tag>
+                <tag>PH*</tag>
+                <tag>PA*</tag>
+                <tag>C*</tag>
+            </tags>
+            <vehicles>
+				<vehicle dataref="sam/airportvehicle/hello/belt_loader" object="/objects/default_NA/loader/loader.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+				</vehicle>			
+				<vehicle dataref="sam/airportvehicle/hello/bus" object="/objects/default_NA/bus/bus.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>				
+				<vehicle dataref="sam/airportvehicle/hello/cart" object="/objects/default_NA/cart/cart.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>		
+				<vehicle dataref="sam/airportvehicle/hello/catering" object="/objects/default_NA/catering/catering.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_pump_truck" object="/objects/default_NA/fuel/fuel_pump_truck.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_truck_large" object="/objects/default_NA/fuel/fuel_truck_large.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_truck_small" object="/objects/default_NA/fuel/fuel_truck_small.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/gpu" object="/objects/default_NA/gpu/gpu.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>						
+				<vehicle dataref="sam/airportvehicle/hello/tug" object="/objects/default_NA/tug/tug.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+            </vehicles>
+        </region>
+        <region livery="/liveries/default_EU/">
+            <tags>
+                <tag>E*</tag>
+                <tag>L*</tag>
+                <tag>GC*</tag>
+            </tags>
+            <vehicles>
+				<vehicle dataref="sam/airportvehicle/hello/belt_loader" object="/objects/default_EU/loader/loader.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>		
+				<vehicle dataref="sam/airportvehicle/hello/bus" object="/objects/default_EU/bus/bus.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>		
+				<vehicle dataref="sam/airportvehicle/hello/cart" object="/objects/default_EU/cart/cart.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>	
+				<vehicle dataref="sam/airportvehicle/hello/catering" object="/objects/default_EU/catering/catering.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>		
+				<vehicle dataref="sam/airportvehicle/hello/fuel_pump_truck" object="/objects/default_EU/fuel/fuel_pump_truck.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_truck_large" object="/objects/default_EU/fuel/fuel_truck_large.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_truck_small" object="/objects/default_EU/fuel/fuel_truck_small.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>				
+				<vehicle dataref="sam/airportvehicle/hello/gpu" object="/objects/default_EU/gpu/gpu.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>						
+                <vehicle dataref="sam/airportvehicle/hello/tug" object="/objects/default_EU/tug/tug.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+            </vehicles>
+        </region>
+        <region livery="/liveries/default_AS/">
+            <tags>
+                <tag>R*</tag>
+                <tag>V*</tag>
+                <tag>W*</tag>
+                <tag>Z*</tag>
+            </tags>
+            <vehicles>
+				<vehicle dataref="sam/airportvehicle/hello/belt_loader" object="/objects/default_AS/loader/loader.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/bus" object="/objects/default_AS/bus/bus.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>				
+				<vehicle dataref="sam/airportvehicle/hello/cart" object="/objects/default_AS/cart/cart.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/catering" object="/objects/default_AS/catering/catering.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>	
+				<vehicle dataref="sam/airportvehicle/hello/fuel_pump_truck" object="/objects/default_AS/fuel/fuel_pump_truck.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+				<vehicle dataref="sam/airportvehicle/hello/fuel_truck_large" object="/objects/default_AS/fuel/fuel_truck_large.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>				
+				<vehicle dataref="sam/airportvehicle/hello/fuel_truck_small" object="/objects/default_AS/fuel/fuel_truck_small.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>				
+				<vehicle dataref="sam/airportvehicle/hello/gpu" object="/objects/default_AS/gpu/gpu.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>						
+                <vehicle dataref="sam/airportvehicle/hello/tug" object="/objects/default_AS/tug/tug.obj">
+                    <datarefs>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_steer_deg" value="STEER"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg0" value="TIRE_ROTATION_1"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg1" value="TIRE_ROTATION_2"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg2" value="TIRE_ROTATION_3"/>
+                        <dataref path="sam/graphics/animation/ground_traffic/tire_rotation_angle_deg3" value="TIRE_ROTATION_4"/>
+                    </datarefs>
+                </vehicle>
+            </vehicles>
+        </region>
+    </airportvehicles>
+</traffic>
+

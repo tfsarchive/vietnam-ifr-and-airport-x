@@ -1,0 +1,432 @@
+A
+800
+LIBRARY
+
+# AAL - American Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_b_aal.obj						E175/AAL/E175_AAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_b_aal.obj						CRJ7/AAL/CRJ7_AAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_aal.obj						B738/AAL/B738_AAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_aal.obj						A320/AAL/A320_AAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_aal.obj					B752/AAL/B752_AAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_aal.obj					B763/AAL/B763_AAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_aal.obj					B772/AAL/B772_AAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_aal.obj					B77W/AAL/B77W_AAL.obj
+
+# AAY - Allegiant Air #
+EXPORT lib/airport/aircraft/airliners/jet_c_aay.obj						A320/AAY/A320_AAY.obj
+
+# ABG - Royal Flight #
+EXPORT  lib/airport/aircraft/airliners/heavy_d_abg.obj					B752/ABG/B752_ABG.obj
+
+# ABX - ABX Air #
+EXPORT lib/airport/aircraft/cargo/heavy_d_abx.obj						B76F/ABX/B763_ABX.obj
+
+# ACA - Air Canda #
+EXPORT lib/airport/aircraft/airliners/turboprop_b_aca.obj				DH8D/ACA/DH8D_ACA.obj
+EXPORT lib/airport/aircraft/airliners/turboprop_c_aca.obj				DH8D/ACA/DH8D_ACA.obj
+EXPORT lib/airport/aircraft/airliners/jet_b_aca.obj						E175/ACA/E175_ACA.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_aca.obj						A320/ACA/A320_ACA.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_aca.obj					B763/ACA/B763_ACA.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_aca.obj					B772/ACA/B772_ACA.obj
+
+# ADO - Air Do #
+EXPORT lib/airport/aircraft/airliners/jet_c_ado.obj						B737/ADO/B737_ADO.obj
+
+# AEE - Aegean #
+EXPORT lib/airport/aircraft/airliners/jet_c_aee.obj						A320/AEE/A320_AEE.obj
+
+# AEY - Air Italy #
+EXPORT lib/airport/aircraft/airliners/jet_c_aey.obj						B738/AEY/B738_AEY.obj
+
+# AFL - Aeroflot #
+EXPORT lib/airport/aircraft/airliners/jet_c_afl.obj						A320/AFL/A320_AFL.obj
+
+# AFR - Air France #
+EXPORT lib/airport/aircraft/airliners/jet_b_afr.obj						CRJ7/AFR/CRJ7_AFR.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_afr.obj						A320/AFR/A320_AFR.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_afr.obj					B772/AFR/B772_AFR.obj
+
+# AEA - Air Europa #
+EXPORT lib/airport/aircraft/airliners/jet_c_aea.obj						B738/AEA/B738_AEA.obj
+
+# AMX - Aeromexico #
+EXPORT lib/airport/aircraft/airliners/jet_c_amx.obj						B737/AMX/B737_AMX.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_amx.obj						B738/AMX/B738_AMX.obj
+
+# ANA - All Nippon Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_ana.obj						B737/ANA/B737_ANA.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_ana.obj						B738/ANA/B738_ANA.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_ana.obj					B763/ANA/B763_ANA.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_ana.obj					B789/ANA/B789_ANA.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_ana.obj					B772/ANA/B772_ANA.obj
+
+### ANS - Air Nostrum (Iberia) ###
+EXPORT  lib/airport/aircraft/airliners/jet_b_ans.obj					CRJ7/ANS/CRJ7_ANS.obj
+
+# ASA - Alaska Airlines #
+EXPORT lib/airport/aircraft/airliners/turboprop_b_asa.obj				DH8D/ASA/DH8D_ASA.obj
+EXPORT lib/airport/aircraft/airliners/jet_b_asa.obj						E175/ASA/E175_ASA.obj
+EXPORT lib/airport/aircraft/airliners/jet_b_asa.obj						CRJ7/ASA/CRJ7_ASA.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_asa.obj						B737/ASA/B737_ASA.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_asa.obj						B738/ASA/B738_ASA.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_asa.obj						B739/ASA/B739_ASA.obj
+EXPORT lib/airport/aircraft/cargo/jet_c_asa.obj							B737/ASA/B737F_ASA.obj
+
+# ATN - Air Transport International #
+EXPORT lib/airport/aircraft/cargo/heavy_d_atn.obj						B76F/ATN/B762_ATN.obj
+
+# AUA - Austrian #
+EXPORT lib/airport/aircraft/airliners/jet_c_aua.obj						A320/AUA/A320_AUA.obj
+
+# AVA - Avianca #
+EXPORT lib/airport/aircraft/airliners/jet_c_ava.obj						A320/AVA/A320_AVA.obj
+
+# AXM - Air Asia #
+EXPORT lib/airport/aircraft/airliners/jet_c_axm.obj						A320/AXM/A320_AXM.obj
+
+# AZA - Alitalia #
+EXPORT lib/airport/aircraft/airliners/jet_b_aza.obj						E175/AZA/E175_AZA.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_aza.obj						A320/AZA/A320_AZA.obj
+
+# BAW - British Airways #
+EXPORT lib/airport/aircraft/airliners/jet_b_baw.obj						E175/BAW/E175_BAW.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_baw.obj						A320/BAW/A320_BAW.obj
+EXPORT lib/airport/aircraft/airliners/heavy_f_baw.obj					A388/BAW/A388_BAW.obj
+
+# BEL - Brussels Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_bel.obj						A320/BEL/A320_BEL.obj
+
+# BOX - Aerologic #
+EXPORT lib/airport/aircraft/cargo/heavy_e_box.obj						B77F/BOX/B77F_BOX.obj
+
+# BPM - Blue Panorama #
+EXPORT lib/airport/aircraft/airliners/heavy_d_bpm.obj					B763/BPM/B763_BPM.obj
+
+# BTI - Air Baltic #
+EXPORT lib/airport/aircraft/airliners/jet_b_bti.obj						BCS3/BTI/BCS3_BTI.obj
+
+# CAI - Correndon Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_cai.obj						B738/CAI/B738_CAI.obj
+
+# CAL - China Airlines #
+EXPORT lib/airport/aircraft/cargo/heavy_e_cal.obj						B74F/CAL/B74F_CAL.obj
+
+# CES - China Eastern #
+EXPORT lib/airport/aircraft/airliners/jet_c_ces.obj						A320/CES/A320_CES.obj
+
+# CFG - Condor #
+EXPORT lib/airport/aircraft/airliners/jet_c_cfg.obj						A320/CFG/A320_CFG.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_cfg.obj					B753/CFG/B753_CFG.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_cfg.obj					B763/CFG/B763_CFG.obj
+
+# CJT - Cargojet #
+EXPORT lib/airport/aircraft/cargo/heavy_d_cjt.obj						B75F/CJT/B75F_CJT.obj
+
+# CMP - Copa Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_cmp.obj						B737/CMP/B737_CMP.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_cmp.obj						B738/CMP/B738_CMP.obj
+
+# CSN - China Southern #
+EXPORT lib/airport/aircraft/airliners/jet_c_csn.obj						A320/CSN/A320_CSN.obj
+
+# DAL - Delta Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_b_dal.obj						BCS1/DAL/BCS1_DAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_b_dal.obj						E175/DAL/E175_DAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_b_aal.obj						CRJ7/DAL/CRJ7_DAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_dal.obj						B737/DAL/B737_DAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_dal.obj						B738/DAL/B738_DAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_dal.obj						B739/DAL/B739_DAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_dal.obj						A320/DAL/A320_DAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_dal.obj					B753/DAL/B753_DAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_dal.obj					B763/DAL/B763_DAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_dal.obj					B764/DAL/B764_DAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_dal.obj					B772/DAL/B772_DAL.obj
+
+# DHL - DHL #
+EXPORT lib/airport/aircraft/cargo/heavy_d_dhl.obj						B76F/DHL/B763_DHL.obj
+
+# DLH - Lufthansa #
+EXPORT lib/airport/aircraft/airliners/jet_c_dlh.obj						A320/DLH/A320_DLH.obj
+EXPORT lib/airport/aircraft/airliners/heavy_f_dlh.obj					A388/DLH/A388_DLH.obj
+
+# EIN - Aer Lingus #
+EXPORT lib/airport/aircraft/airliners/jet_c_ein.obj						A320/EIN/A320_EIN.obj
+
+# ELB - Ellinair #
+EXPORT lib/airport/aircraft/airliners/jet_c_elb.obj						A320/ELB/A320_ELB.obj
+
+# EWG - Eurowings #
+EXPORT lib/airport/aircraft/airliners/jet_c_ewg.obj						A320/EWG/A320_EWG.obj
+
+# EZY - Easyjet #
+EXPORT lib/airport/aircraft/airliners/jet_c_ezy.obj						A320/EZY/A320_EZY.obj
+
+# EXS - Jet2 #
+EXPORT lib/airport/aircraft/airliners/heavy_d_exs.obj					B752/EXS/B752_EXS.obj
+
+# FDB - Flydubai #
+EXPORT lib/airport/aircraft/airliners/jet_c_fdb.obj						B738/FDB/B738_FDB.obj
+
+# FDX - Fedex #
+EXPORT lib/airport/aircraft/cargo/heavy_d_fdx.obj						B75F/FDX/B75F_FDX.obj
+EXPORT lib/airport/aircraft/cargo/heavy_d_fdx.obj						B76F/FDX/B76F_FDX.obj
+EXPORT lib/airport/aircraft/cargo/heavy_e_fdx.obj						B77F/FDX/B77F_FDX.obj
+EXPORT lib/airport/aircraft/cargo/heavy_e_fdx.obj						MD11/FDX/MD11_FDX.obj
+
+# FIN - Finnair #
+EXPORT lib/airport/aircraft/airliners/jet_c_fin.obj						A320/FIN/A320_FIN.obj
+
+# GEC - Lufthansa Cargo #
+EXPORT lib/airport/aircraft/cargo/heavy_e_gec.obj						B77F/GEC/B77F_GEC.obj
+
+# GIA - Garuda Indonesia #
+EXPORT lib/airport/aircraft/airliners/jet_c_gia.obj						B738/GIA/B738_GIA.obj
+
+# GLO - Gol Linhas Aereas #
+EXPORT lib/airport/aircraft/airliners/jet_c_glo.obj						B737/GLO/B737_GLO.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_glo.obj						B738/GLO/B738_GLO.obj
+
+# GTI - Atlas Air #
+EXPORT  lib/airport/aircraft/cargo/heavy_d_gti.obj						B76F/GTI/B763_GTI.obj
+
+# HAL - Hawaiian Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_hal.obj						B712/HAL/B712_HAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_hal.obj					B763/HAL/B763_HAL.obj
+
+# IBE - Iberia #
+EXPORT lib/airport/aircraft/airliners/jet_c_ibe.obj						A320/IBE/A320_IBE.obj
+
+# ICE - Icelandair #
+EXPORT lib/airport/aircraft/airliners/heavy_d_ice.obj					B752/ICE/B752_ICE.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_ice.obj					B763/ICE/B763_ICE.obj
+
+# IGO - IndiGo Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_igo.obj						A320/IGO/A320_IGO.obj
+
+# JAL - Japan Airlines #
+EXPORT lib/airport/aircraft/airliners/heavy_d_jal.obj					B763/JAL/B763_JAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_jal.obj					B772/JAL/B772_JAL.obj
+
+# JEX - JAL Express #
+EXPORT lib/airport/aircraft/airliners/jet_c_jex.obj						B738/JEX/B738_JEX.obj
+
+# JBU - Jetblue #
+EXPORT lib/airport/aircraft/airliners/jet_b_jbu.obj						BCS3/JBU/BCS3_JBU.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_jbu.obj						A320/JBU/A320_JBU.obj
+
+# JST - Jetstar #
+EXPORT lib/airport/aircraft/airliners/jet_c_jst.obj						A320/JST/A320_JST.obj
+
+# KAL - Korean Air #
+EXPORT lib/airport/aircraft/airliners/jet_b_kal.obj						BCS3/KAL/BCS3_KAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_kal.obj						B738/KAL/B738_KAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_kal.obj						B739/KAL/B739_KAL.obj
+
+# KLM - KLM #
+EXPORT lib/airport/aircraft/airliners/jet_c_klm.obj						B737/KLM/B737_KLM.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_klm.obj						B738/KLM/B738_KLM.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_klm.obj						B739/KLM/B739_KLM.obj
+
+# KTK - Azur Air #
+EXPORT lib/airport/aircraft/airliners/heavy_d_ktk.obj					B763/KTK/B763_KTK.obj
+
+# LAN - LATAM #
+EXPORT lib/airport/aircraft/airliners/jet_c_lan.obj						A320/LAN/A320_LAN.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_lan.obj					B763/LAN/B763_LAN.obj
+
+# LDM - Laudamotion #
+EXPORT lib/airport/aircraft/airliners/jet_c_ldm.obj						A320/LDM/A320_LDM.obj
+
+# LNI - Lion Air #
+EXPORT lib/airport/aircraft/airliners/jet_c_lni.obj						B738/LNI/B738_LNI.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_lni.obj						B739/LNI/B739_LNI.obj
+
+# LOT - Polskie Linie Lotnicze #
+EXPORT lib/airport/aircraft/airliners/jet_b_lot.obj						E170/LOT/E170_LOT.obj
+
+# MAS - Malaysian Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_mas.obj						B738/MAS/B738_MAS.obj
+
+# NAX - Norwegian #
+EXPORT lib/airport/aircraft/airliners/jet_c_nax.obj						B738/NAX/B738_NAX.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_nax.obj					B789/NAX/B789_NAX.obj
+
+# NOS - Neos #
+EXPORT lib/airport/aircraft/airliners/jet_c_nos.obj						B738/NOS/B738_NOS.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_nos.obj					B763/NOS/B763_NOS.obj
+
+# QFA - Quantas #
+EXPORT lib/airport/aircraft/airliners/jet_c_qfa.obj						B738/QFA/B738_QFA.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_qfa.obj					B744/QFA/B744_QFA.obj
+
+# QLK - Quantas Link #
+EXPORT lib/airport/aircraft/airliners/jet_c_qlk.obj						A320/QLK/A320_QLK.obj
+
+# RJA - Royal Jordanian #
+EXPORT lib/airport/aircraft/airliners/heavy_d_rja.obj					B789/RJA/B789_RJA.obj
+
+# ROU - Air Canda Rouge #
+EXPORT lib/airport/aircraft/airliners/heavy_d_rou.obj					B763/ROU/B763_ROU.obj
+
+# RPB - Wingo #
+EXPORT lib/airport/aircraft/airliners/jet_c_rpb.obj						B737/RPB/B737_RPB.obj
+
+# RYR - Ryanair #
+EXPORT lib/airport/aircraft/airliners/jet_c_ryr.obj						B738/RYR/B738_RYR.obj
+
+# SAA - South African Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_saa.obj						A320/SAA/A320_SAA.obj
+
+# SAS - Scandinavian #
+EXPORT lib/airport/aircraft/airliners/jet_c_sas.obj						B738/SAS/B738_SAS.obj
+
+# SCX - Sun Country Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_scx.obj						B738/SCX/B738_SCX.obj
+
+# SKY - Skymark Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_sky.obj						B738/SKY/B738_SKY.obj
+
+# SKW - Skywest Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_b_skw.obj						CRJ2/SKW/CRJ2_SKW.obj
+
+# SWA - Southwest #
+EXPORT lib/airport/aircraft/airliners/jet_c_swa.obj						B737/SWA/B737_SWA1.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_swa.obj						B737/SWA/B737_SWA2.obj
+
+# SWG - Sunwings Canada #
+EXPORT lib/airport/aircraft/airliners/jet_c_swg.obj						B738/SWG/B738_SWG.obj
+
+# SWN - West Air Sweden #
+EXPORT lib/airport/aircraft/cargo/heavy_d_swn.obj						B76F/SWN/B762_SWN.obj
+
+# SWR - Swiss Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_b_swr.obj						BCS1/SWR/BCS1_SWR.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_swr.obj						BCS3/SWR/BCS3_SWR.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_swr.obj						A320/SWR/A320_SWR.obj
+
+# SWT - Swift #
+EXPORT lib/airport/aircraft/airliners/jet_c_swt.obj						B737/SWT/B737_SWT.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_swt.obj						B738/SWT/B738_SWT_1.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_swt.obj						B738/SWT/B738_SWT_2.obj
+
+# SXD - Sunexpress Deutschland #
+EXPORT lib/airport/aircraft/airliners/jet_c_sxd.obj						B738/SXD/B738_SXD.obj
+
+# SXS - Sunexpress #
+EXPORT lib/airport/aircraft/airliners/jet_c_sxs.obj						B738/SXS/B738_SXS.obj
+
+# THY - Turkish Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_c_thy.obj						B738/THY/B738_THY.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_thy.obj						B739/THY/B739_THY.obj
+
+# TAP - TAP Air Portugal #
+EXPORT lib/airport/aircraft/airliners/jet_c_tap.obj						A320/TAP/A320_TAP.obj
+
+# TGW - Tigerair #
+EXPORT lib/airport/aircraft/airliners/jet_c_tgw.obj						A320/TGW/A320_TGW.obj
+
+# TRA - Transavia #
+EXPORT lib/airport/aircraft/airliners/jet_c_tra.obj						B738/TRA/B738_TRA.obj
+
+# TUI - Tui #
+EXPORT lib/airport/aircraft/airliners/jet_c_tui.obj						B737/TUI/B737_TUI.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_tui.obj						B738/TUI/B738_TUI.obj
+
+# TVS - Travel Service #
+EXPORT lib/airport/aircraft/airliners/jet_c_tvs.obj						B738/TVS/B738_TVS.obj
+
+# UAE - Emirates #
+EXPORT lib/airport/aircraft/airliners/heavy_e_uae.obj					B77W/UAE/B77W_UAE.obj
+
+# UAL - United Airlines #
+EXPORT lib/airport/aircraft/airliners/jet_b_ual.obj						E175/UAL/E175_UAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_b_ual.obj						CRJ2/UAL/CRJ2_UAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_b_ual.obj						CRJ7/UAL/CRJ7_UAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_ual.obj						B737/UAL/B737_UAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_ual.obj						B738/UAL/B738_UAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_ual.obj						B739/UAL/B739_UAL.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_ual.obj						A320/UAL/A320_UAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_ual.obj					B752/UAL/B752_UAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_ual.obj					B753/UAL/B753_UAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_ual.obj					B763/UAL/B763_UAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_ual.obj					B764/UAL/B764_UAL.obj
+EXPORT lib/airport/aircraft/airliners/heavy_e_ual.obj					B772/UAL/B772_UAL.obj
+
+# UPS - UPS #
+EXPORT lib/airport/aircraft/cargo/heavy_d_ups.obj						B75F/UPS/B75F_UPS.obj
+EXPORT lib/airport/aircraft/cargo/heavy_d_ups.obj						B76F/UPS/B76F_UPS.obj
+
+# VIR - Virgin Atlantic #
+EXPORT lib/airport/aircraft/airliners/heavy_e_vir.obj					B744/VIR/B744_VIR.obj
+
+# VLG - Vueling #
+EXPORT lib/airport/aircraft/airliners/jet_c_vlg.obj						A320/VLG/A320_VLG.obj
+
+# VOZ - Virgin Australia #
+EXPORT lib/airport/aircraft/airliners/jet_c_voz.obj						B738/VOZ/B738_VOZ.obj
+
+# WIA - Winair #
+EXPORT lib/airport/aircraft/airliners/turboprop_a_wia.obj				DHC6/WIA/DHC6_WIA.obj
+
+# WJA - Westjet #
+EXPORT lib/airport/aircraft/airliners/jet_c_wja.obj						B737/WJA/B737_WJA.obj
+EXPORT lib/airport/aircraft/airliners/jet_c_wja.obj						B738/WJA/B738_WJA.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d_wja.obj					B763/WJA/B763_WJA.obj
+
+# WZZ - Wizzair #
+EXPORT lib/airport/aircraft/airliners/jet_c_wzz.obj						A320/WZZ/A320_WZZ.obj
+
+
+
+
+
+
+
+
+# FALLBACK #
+
+# HEAVY
+
+EXPORT lib/airport/aircraft/airliners/heavy_e.obj						B772/B772_blank.obj
+EXPORT lib/airport/aircraft/airliners/heavy_d.obj						B763/B763_blank.obj
+EXPORT lib/airport/aircraft/cargo/heavy_e.obj							B77F/B77F_blank.obj
+EXPORT lib/airport/aircraft/cargo/heavy_d.obj							B76F/B76F_blank.obj
+#EXPORT lib/airport/aircraft/general_aviation/heavy_d.obj				blank.obj
+#EXPORT lib/airport/aircraft/military/heavy_d.obj						blank.obj
+
+
+# JET
+
+EXPORT lib/airport/aircraft/airliners/jet_c.obj							A320/A320_blank.obj
+#EXPORT lib/airport/aircraft/airliners/jet_b.obj						blank.obj
+#EXPORT lib/airport/aircraft/cargo/jet_c.obj							blank.obj
+#EXPORT lib/airport/aircraft/cargo/jet_b.obj							blank.obj
+#EXPORT lib/airport/aircraft/general_aviation/jet_a.obj					blank.obj
+#EXPORT lib/airport/aircraft/military/jet_b.obj							blank.obj
+
+# JET NON PLAUSIBLE MINIMUMS
+
+#EXPORT lib/airport/aircraft/airliners/jet_a.obj						blank.obj
+#EXPORT lib/airport/aircraft/cargo/jet_a.obj							blank.obj
+#EXPORT lib/airport/aircraft/military/jet_a.obj							blank.obj
+
+# TURBOPROP
+
+#EXPORT lib/airport/aircraft/airliners/turboprop_a.obj					blank.obj
+#EXPORT lib/airport/aircraft/airliners/turboprop_b.obj					blank.obj
+#EXPORT lib/airport/aircraft/airliners/turboprop_c.obj					blank.obj
+#EXPORT lib/airport/aircraft/cargo/turboprop_c.obj						blank.obj
+#EXPORT lib/airport/aircraft/cargo/turboprop_b.obj						blank.obj
+#EXPORT lib/airport/aircraft/cargo/turboprop_a.obj						blank.obj
+#EXPORT lib/airport/aircraft/general_aviation/turboprop_a.obj			blank.obj
+#EXPORT lib/airport/aircraft/general_aviation/turboprop_b.obj			blank.obj
+#EXPORT lib/airport/aircraft/military/turboprop_a.obj					blank.obj
+#EXPORT lib/airport/aircraft/military/turboprop_b.obj					blank.obj
+
+
+# PROP
+
+#EXPORT lib/airport/aircraft/airliners/prop_a.obj						blank.obj
+#EXPORT lib/airport/aircraft/cargo/prop_a.obj							blank.obj
+#EXPORT lib/airport/aircraft/general_aviation/prop_a.obj				blank.obj
+#EXPORT lib/airport/aircraft/military/prop_a.obj						blank.obj

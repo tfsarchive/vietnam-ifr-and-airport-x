@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<scenery name="SAM Static Aircrafts" locked="true">
+  <datarefs />
+  <objects />
+  <jetwayDescriptions />
+  <jetways />
+  <docks />
+  <gui />
+  <static_aircrafts>
+    <aircraft dataref="sam/staticaircraft/a320/door/none" x="-1.90432" y="3.33036" z="-0.74715" psi="5.0" />
+    <aircraft dataref="sam/staticaircraft/a388/door/none" x="-2.81276" y="4.6417" z="-0.12203" psi="10.0" />
+    <aircraft dataref="sam/staticaircraft/a388/door/lf2" x="-3.32686" y="4.6417" z="10.1368" psi="0.0" />
+    <aircraft dataref="sam/staticaircraft/a388/door/lu1" x="-3.37104" y="7.44851" z="14.679" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/b712/door/none" x="-1.57648" y="2.22747" z="1.97673" psi="10.0" />
+	<aircraft dataref="sam/staticaircraft/b737/door/none" x="-1.52222" y="2.767" z="2.3385" psi="10.0" />
+	<aircraft dataref="sam/staticaircraft/b739/door/none" x="-1.65523" y="2.79677" z="0.38238" psi="10.0" />
+	<aircraft dataref="sam/staticaircraft/b744/door/none" x="-2.65062" y="4.71735" z="0.61843" psi="10.0" />
+	<aircraft dataref="sam/staticaircraft/b744/door/lf2" x="-3.05389" y="4.76662" z="10.0346" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/b744/door/lu1" x="-2.7662" y="7.54549" z="6.39571" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/b752/door/none" x="-1.8025" y="3.95905" z="-0.89946" psi="5.0" />
+	<aircraft dataref="sam/staticaircraft/b752/door/lf2" x="-1.8025" y="3.95905" z="8.33457" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/b753/door/none" x="-1.81308" y="3.88982" z="-1.13236" psi="5.0" />
+	<aircraft dataref="sam/staticaircraft/b753/door/lf2" x="-1.81308" y="3.84594" z="7.73678" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/b763/door/none" x="-2.36797" y="4.1366" z="0.41342" psi="10.0" />
+	<aircraft dataref="sam/staticaircraft/b764/door/none" x="-2.28869" y="4.1869" z="0.50737" psi="10.0" />
+	<aircraft dataref="sam/staticaircraft/b764/door/lf2" x="-2.46937" y="4.20169" z="14.0993" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/b772/door/none" x="-2.64844" y="5.21595" z="0.05467" psi="13.0" />
+	<aircraft dataref="sam/staticaircraft/b772/door/lf2" x="-3.04465" y="5.21595" z="10.3455" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/b77W/door/none" x="-2.59487" y="5.20225" z="-0.15627" psi="15.0" />
+	<aircraft dataref="sam/staticaircraft/b77W/door/lf2" x="-3.05528" y="5.20225" z="5.20225" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/b789/door/lf1" x="-2.58069" y="4.60492" z="0.44859" psi="10.0" />
+	<aircraft dataref="sam/staticaircraft/b789/door/lf2" x="-2.86048" y="4.60492" z="9.45026" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/bcs1/door/none" x="-1.64214" y="2.88606" z="0.78486" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/bcs3/door/none" x="-1.64214" y="2.88606" z="-1.20585" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/crj2/door/none" x="-1.21676" y="1.63206" z="2.39113" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/crj7/door/none" x="-1.36315" y="1.58462" z="1.81922" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/dh8d/door/none" x="-1.02248" y="1.13722" z="2.45168" psi="0.0" />
+	<aircraft dataref="sam/staticaircraft/e175/door/none" x="-1.37826" y="2.42829" z="-0.15398" psi="0.0" />
+  </static_aircrafts>
+</scenery>

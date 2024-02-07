@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<object>
+    <steerable>
+        <front_axis displace_z="-1.04559" radius="0.58447" />
+        <rear_axis displace_z="0.61852" radius="0.8039" />
+    </steerable>
+</object>

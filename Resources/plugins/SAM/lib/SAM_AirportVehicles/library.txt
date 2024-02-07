@@ -1,0 +1,116 @@
+A
+800
+LIBRARY
+
+REGION_DEFINE WORLD
+REGION_ALL
+
+REGION_DEFINE static_EU
+REGION_BITMAP objects_static/region_bitmaps/region_EU.png
+
+REGION_DEFINE static_AS
+REGION_BITMAP objects_static/region_bitmaps/region_AS.png
+
+# STATIC VEHICLES AS
+
+REGION static_AS
+
+EXPORT_EXCLUDE lib/airport/Common_Elements/vehicles/Fuel_Truck_Large.obj	objects_static/default_AS/Fuel_Truck_Large.obj
+EXPORT_EXCLUDE lib/airport/Common_Elements/vehicles/Large_Fuel_Truck.obj	objects_static/default_AS/Fuel_Truck_Large.obj
+EXPORT_EXCLUDE lib/airport/Common_Elements/vehicles/Fuel_Truck_Small.obj	objects_static/default_AS/Fuel_Truck_Small.obj
+EXPORT_EXCLUDE lib/airport/Common_Elements/vehicles/Small_Fuel_Truck.obj	objects_static/default_AS/Fuel_Truck_Small.obj
+
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Belt_Loader.obj					objects_static/default_AS/Belt_Loader.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/GPU_1.obj							objects_static/default_AS/GPU_1.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Cart_Group.obj				objects_static/default_AS/Lugg_Cart_Group.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_3.obj 					objects_static/default_AS/Lugg_Train_3.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Group.obj 				objects_static/default_AS/Lugg_Train_Group.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight.obj 			objects_static/default_AS/Lugg_Train_Str5.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight1.obj			objects_static/default_AS/Lugg_Train_Str1.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight2.obj			objects_static/default_AS/Lugg_Train_Str2.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight3.obj 			objects_static/default_AS/Lugg_Train_Str3.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight4.obj 			objects_static/default_AS/Lugg_Train_Str4.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight5.obj 			objects_static/default_AS/Lugg_Train_Str5.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Luggage_Cart.obj					objects_static/default_AS/Luggage_Cart.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Luggage_Cart_1.obj				objects_static/default_AS/Luggage_Cart_1.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Luggage_Truck.obj 				objects_static/default_AS/Luggage_Truck.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Tow_Tractor_1.obj 				objects_static/default_AS/Luggage_Truck.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Tug660_Dn_1.obj					objects_static/default_AS/Tug660_Dn_1.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Tug660_Up_1.obj					objects_static/default_AS/Tug660_Dn_1.obj
+
+
+# STATIC VEHICLES EU
+
+REGION static_EU
+
+EXPORT_EXCLUDE lib/airport/Common_Elements/vehicles/Fuel_Truck_Large.obj	objects_static/default_EU/Fuel_Truck_Large.obj
+EXPORT_EXCLUDE lib/airport/Common_Elements/vehicles/Large_Fuel_Truck.obj	objects_static/default_EU/Fuel_Truck_Large.obj
+EXPORT_EXCLUDE lib/airport/Common_Elements/vehicles/Fuel_Truck_Small.obj	objects_static/default_EU/Fuel_Truck_Small.obj
+EXPORT_EXCLUDE lib/airport/Common_Elements/vehicles/Small_Fuel_Truck.obj	objects_static/default_EU/Fuel_Truck_Small.obj
+
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Belt_Loader.obj					objects_static/default_EU/Belt_Loader.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/GPU_1.obj							objects_static/default_EU/GPU_1.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Cart_Group.obj				objects_static/default_EU/Lugg_Cart_Group.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_3.obj 					objects_static/default_EU/Lugg_Train_3.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Group.obj 				objects_static/default_EU/Lugg_Train_Group.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight.obj 			objects_static/default_EU/Lugg_Train_Str5.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight1.obj			objects_static/default_EU/Lugg_Train_Str1.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight2.obj			objects_static/default_EU/Lugg_Train_Str2.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight3.obj 			objects_static/default_EU/Lugg_Train_Str3.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight4.obj 			objects_static/default_EU/Lugg_Train_Str4.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Lugg_Train_Straight5.obj 			objects_static/default_EU/Lugg_Train_Str5.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Luggage_Cart.obj					objects_static/default_EU/Luggage_Cart.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Luggage_Cart_1.obj				objects_static/default_EU/Luggage_Cart_1.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Luggage_Truck.obj 				objects_static/default_EU/Luggage_Truck.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Tow_Tractor_1.obj 				objects_static/default_EU/Luggage_Truck.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Tug660_Dn_1.obj					objects_static/default_EU/Tug660_Dn_1.obj
+EXPORT_EXCLUDE lib/airport/Ramp_Equipment/Tug660_Up_1.obj					objects_static/default_EU/Tug660_Dn_1.obj
+
+REGION WORLD
+
+# DYNAMIC VEHICLES
+
+EXPORT lib/airport/vehicles/baggage_handling/tractor.obj			objects/hello/TUG_MA30.obj
+EXPORT lib/airport/vehicles/baggage_handling/belt_loader.obj		objects/hello/TUG_660.obj
+EXPORT lib/airport/vehicles/baggage_handling/bag_cart.obj			objects/hello/cart.obj
+EXPORT lib/airport/vehicles/fuel/hyd_disp_truck.obj					objects/hello/fuel_pump_truck.obj
+EXPORT lib/airport/vehicles/servicing/fuel_truck_large.obj			objects/hello/fuel_truck_large.obj
+EXPORT lib/airport/vehicles/servicing/fuel_truck_small.obj			objects/hello/fuel_truck_small.obj
+EXPORT lib/airport/vehicles/servicing/GPU.obj						objects/hello/gpu.obj
+EXPORT lib/airport/vehicles/servicing/catering_truck.obj			objects/hello/catering.obj
+EXPORT lib/airport/vehicles/servicing/crew_car.obj					objects/hello/bus.obj
+EXPORT lib/airport/vehicles/servicing/crew_ferrari.obj				objects/hello/bus.obj
+
+#EXPORT	lib/airport/vehicles/pushback/tug.obj						DEV/originals/apt_vehicles/pushback/Tug_GT110.obj
+#EXPORT	lib/airport/vehicles/servicing/limo.obj						DEV/originals/apt_vehicles/limo/limo.obj
+
+# STATIC VEHICLES DEFAULT
+
+EXPORT lib/airport/Common_Elements/vehicles/Fuel_Truck_Large.obj	objects_static/default_NA/Fuel_Truck_Large.obj
+EXPORT lib/airport/Common_Elements/vehicles/Large_Fuel_Truck.obj	objects_static/default_NA/Fuel_Truck_Large.obj
+EXPORT lib/airport/Common_Elements/vehicles/Fuel_Truck_Small.obj	objects_static/default_NA/Fuel_Truck_Small.obj
+EXPORT lib/airport/Common_Elements/vehicles/Small_Fuel_Truck.obj	objects_static/default_NA/Fuel_Truck_Small.obj
+
+EXPORT lib/airport/Ramp_Equipment/Air_Start_2.obj					objects_static/default_NA/Air_Start_2.obj
+EXPORT lib/airport/Ramp_Equipment/Belt_Loader.obj					objects_static/default_NA/Belt_Loader.obj
+EXPORT lib/airport/Ramp_Equipment/Cargo_Container_1.obj				objects_static/default_NA/Cargo_Container_1.obj
+EXPORT lib/airport/Ramp_Equipment/Cargo_Container_6.obj				objects_static/default_NA/Cargo_Container_6.obj
+EXPORT lib/airport/Ramp_Equipment/Cargo_Dolly_1.obj					objects_static/default_NA/Cargo_Dolly_1.obj
+EXPORT lib/airport/Ramp_Equipment/Cargo_Dolly_wPod.obj				objects_static/default_NA/Cargo_Dolly_wPod.obj
+EXPORT lib/airport/Ramp_Equipment/Cargo_Loader_1.obj				objects_static/default_NA/ULD_Loader.obj
+EXPORT lib/airport/Ramp_Equipment/GPU_1.obj							objects_static/default_NA/GPU_1.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Cart_Group.obj				objects_static/default_NA/Lugg_Cart_Group.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Train_3.obj 					objects_static/default_NA/Lugg_Train_3.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Train_Group.obj 				objects_static/default_NA/Lugg_Train_Group.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Train_Straight.obj 			objects_static/default_NA/Lugg_Train_Str5.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Train_Straight1.obj			objects_static/default_NA/Lugg_Train_Str1.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Train_Straight2.obj			objects_static/default_NA/Lugg_Train_Str2.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Train_Straight3.obj 			objects_static/default_NA/Lugg_Train_Str3.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Train_Straight4.obj 			objects_static/default_NA/Lugg_Train_Str4.obj
+EXPORT lib/airport/Ramp_Equipment/Lugg_Train_Straight5.obj 			objects_static/default_NA/Lugg_Train_Str5.obj
+EXPORT lib/airport/Ramp_Equipment/Luggage_Cart.obj					objects_static/default_NA/Luggage_Cart.obj
+EXPORT lib/airport/Ramp_Equipment/Luggage_Cart_1.obj				objects_static/default_NA/Luggage_Cart_1.obj
+EXPORT lib/airport/Ramp_Equipment/Luggage_Truck.obj 				objects_static/default_NA/Luggage_Truck.obj
+EXPORT lib/airport/Ramp_Equipment/Tow_Tractor_1.obj 				objects_static/default_NA/Luggage_Truck.obj
+EXPORT lib/airport/Ramp_Equipment/Tug660_Dn_1.obj					objects_static/default_NA/Tug660_Dn_1.obj
+EXPORT lib/airport/Ramp_Equipment/Tug660_Up_1.obj					objects_static/default_NA/Tug660_Dn_1.obj
