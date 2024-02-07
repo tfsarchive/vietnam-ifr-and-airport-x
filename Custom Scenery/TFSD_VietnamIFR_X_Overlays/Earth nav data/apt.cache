@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<apt sam="false" revision="4" sam_path="C:\Program Files\X-plane 11\Custom Scenery\TFSD_CanTho_IFR_A_Airport\sam.xml">
+	<airport name="Can Tho Int" icao="VVCT" iata="" elevation="9" latitude="0" longitude="4.0772403000228499e-315" />
+</apt>

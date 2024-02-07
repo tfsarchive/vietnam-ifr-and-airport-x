@@ -1,0 +1,26 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object Saab340_006 in file Orbxlibs_Staticflow_Aircraft.bgl
+
+TEXTURE_DRAPED	 ORBX_staticflow_shadows_3.dds
+
+POINT_COUNTS	4 0 0 6
+
+VT	  11.449    0.100   -8.854	 0.000  1.000 -0.000	0.3304 0.6634
+VT	  11.449    0.100   12.075	 0.000  1.000 -0.000	0.3304 0.3382
+VT	 -11.449    0.100   12.075	 0.000  1.000 -0.000	0.0020 0.3382
+VT	 -11.449    0.100   -8.854	 0.000  1.000 -0.000	0.0020 0.6634
+
+IDX	0
+IDX	1
+IDX	2
+IDX	2
+IDX	3
+IDX	0
+
+#ATTR_no_blend
+ATTR_draped
+ATTR_no_shadow
+TRIS	0 6

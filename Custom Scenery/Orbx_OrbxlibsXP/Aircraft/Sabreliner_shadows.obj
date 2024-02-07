@@ -1,0 +1,27 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object Sabreliner_06 in file Westsim_Spokane_Library.bgl
+
+TEXTURE_DRAPED		Westsim_KSFF_alpha.dds
+
+POINT_COUNTS	4 0 0 6
+
+VT	   9.221    0.100  -12.448	 0.000  1.000 -0.000	0.9955 0.9975
+VT	   9.221    0.100    5.724	 0.000  1.000 -0.000	0.9955 0.7538
+VT	  -9.221    0.100    5.724	 0.000  1.000 -0.000	0.7514 0.7538
+VT	  -9.221    0.100  -12.448	 0.000  1.000 -0.000	0.7514 0.9975
+
+IDX	0
+IDX	1
+IDX	2
+IDX	2
+IDX	3
+IDX	0
+
+#ATTR_no_blend
+ATTR_draped
+ATTR_no_shadow
+
+TRIS	0 6

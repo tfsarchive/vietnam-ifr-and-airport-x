@@ -1,0 +1,26 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object Gulfstream_Var8 in file Orbxlibs_Staticflow_Aircraft.bgl
+
+TEXTURE_DRAPED	 ORBX_staticflow_shadows_1.dds
+#TEXTURE_LIT	ORBX_staticflow_shadows_1_LIT.dds
+POINT_COUNTS	4 0 0 6
+
+VT	  16.261    0.050  -16.274	 0.000  1.000 -0.000	0.3726 0.4978
+VT	  16.261    0.050   16.045	 0.000  1.000 -0.000	0.3726 0.1272
+VT	 -16.261    0.050   16.045	 0.000  1.000 -0.000	0.0020 0.1272
+VT	 -16.261    0.050  -16.274	 0.000  1.000 -0.000	0.0020 0.4978
+
+IDX	0
+IDX	1
+IDX	2
+IDX	2
+IDX	3
+IDX	0
+
+#ATTR_no_blend
+ATTR_draped
+ATTR_no_shadow
+TRIS	0 6

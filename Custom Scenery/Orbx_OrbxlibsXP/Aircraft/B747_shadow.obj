@@ -1,0 +1,33 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object Boeing_747_BA_closed in file Orbxlibs_aircraft_static_rw.bgl
+
+TEXTURE_DRAPED	 ORBXlibs_B747_shadow.dds
+POINT_COUNTS	8 0 0 18
+
+VT	  13.473    0.053  -34.710	0.000 1.000 -0.000	0.9508 0.7826
+VT	  42.057    0.051  -14.401	0.000 1.000 -0.000	1.0822 0.2578
+VT	  42.612    0.049   10.254	0.000 1.000 -0.000	0.7481 -0.0650
+VT	 -37.881    0.050   -4.189	0.000 1.000 -0.000	0.0566 1.0186
+VT	   3.843    0.053  -34.692	0.000 1.000 -0.000	0.8713 0.8679
+VT	   4.906    0.047   32.557	0.000 1.000 -0.000	0.1435 0.1561
+VT	 -37.590    0.050    4.188	0.000 1.000 -0.000	-0.0178 0.9429
+VT	  14.159    0.047   32.003	0.000 1.000 -0.000	0.2258 0.0796
+
+IDX10	0 1 2 3 4 0 5 6 3 5
+IDX	3
+IDX	0
+IDX	5
+IDX	0
+IDX	2
+IDX	5
+IDX	2
+IDX	7
+
+#ATTR_no_blend
+
+ATTR_draped
+ATTR_no_shadow#ATTR_shiny_rat	1.000
+TRIS	0 18

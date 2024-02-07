@@ -1,0 +1,9 @@
+/**
+ * OpenSceneryX Version information file
+ * Copyright (C) 2019 Austin Goudge
+ **/
+
+var osxVersion = '4.4.0';
+var osxVersionDate = 'Sat, 28 Mar 2020';
+var osxAuthors = '@lex, Air Northwest, Albert Laubi, Alex Unruh, amerrir, Andras Fabian, Andrew Rerecich, Andrew Santorelli, Atypik Design, audiotracker, Austin Goudge, Barry Drake, Barry Roberts, Benedikt Stratmann, benghurk, Bernie Fritts, Bertrand Augras, Birger Christiansen, Bob Feaver, Bob Whitt, Brett Sumpter, Cameron Jenkins, cfm56, Chris Noe, Christian Riviere, Christian Rivière, Conan Davis (Vivar), Cormac Shaw, Curt Boyll, Daniel Leygnat, Darragh Hickey, Darrell Thompson, Dave Morley, Daveduck, David Gluck, David Hossack, Davide De Marchi, Denmeul, Dhruv Kalra, Dieter Rosenkranz, Dr. Jose Antonio Sanchez-Duran, Drew Elkin, Dwight Gardam, Falcon, fasm, Florian (PilotFlo), FlyAgi, Geoffrey Hargreaves, gliderace, Hector Tanus, Heinz Dziurowitz, Jacques Brault, James Green, Jaron Latona aka JTron, Jeff Mueller, Jochen Haink, Jonathan Harris, Jose Antonio Sanchez-Duran, Kaphias, Ket, Laminar Research, Lars de Jonge, Luke173, Marco Wolfsmann, Matt Moriarty, Mertzen, Morten Melhuus, mr 3D, Nick Ward, Nilsh, Omer, openfootage.net, Pedro MS Alves, Peter Eckart, Phill Scott, Planebuilder, psiteo, Ralf Kutscher, Reuben Horsley, Reuben Mowbray, Richard C Elliott, Robert T. Brown III, Robin Tannahill, Rocket Man, ROMELLA, Ron Somerville, Sergey Dovnar aka Slyder, Sergio Català, Sergio Santagada, Sevo, Shadetreemicro.com, shilova, shizumaat, Splendor Bouman, Stephen Legg, Steve Mills, textures.com, The Beluga Project, Tom Kyler, Tony Brown, William Bigio, X-Plane&reg; Freeware Project, XPFW, XPushback Plugin Project and yewenyi';
+var osxObjectCount = '5193';

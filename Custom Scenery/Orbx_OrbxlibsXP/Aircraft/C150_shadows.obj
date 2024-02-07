@@ -1,0 +1,26 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object C150B_AU in file Orbxlibs_Staticflow_Aircraft.bgl
+
+TEXTURE_DRAPED	 ORBX_staticflow_shadows_1.dds
+#TEXTURE_LIT	ORBX_staticflow_shadows_1_LIT.dds
+POINT_COUNTS	4 0 0 6
+
+VT	   5.485    0.020   -2.749	 0.000  1.000 -0.000	0.6236 0.4990
+VT	   5.485    0.020    5.251	 0.000  1.000 -0.000	0.6236 0.2516
+VT	  -5.515    0.020    5.251	 0.000  1.000 -0.000	0.3762 0.2516
+VT	  -5.515    0.020   -2.749	 0.000  1.000 -0.000	0.3762 0.4990
+
+IDX	0
+IDX	1
+IDX	2
+IDX	2
+IDX	3
+IDX	0
+
+#ATTR_no_blend
+ATTR_draped
+ATTR_no_shadow
+TRIS	0 6

@@ -1,0 +1,33 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object Boeing_737_Thomson_closed in file Orbxlibs_Staticflow_Aircraft.bgl
+
+TEXTURE_DRAPED	 ORBXlibs_B737_shadow.dds
+POINT_COUNTS	8 0 0 18
+
+VT	  12.621    0.055  -20.278	 0.000  1.000 -0.000	1.0159 0.6782
+VT	  23.240    0.055  -10.961	 0.000  1.000 -0.000	1.0409 0.3275
+VT	  23.888    0.055    9.119	 0.000  1.000 -0.000	0.7012 -0.0363
+VT	 -22.424    0.055   -2.415	 0.000  1.000 -0.000	0.0831 0.9823
+VT	  -3.506    0.055  -20.375	 0.000  1.000 -0.000	0.7321 0.9641
+VT	  -3.787    0.055   20.488	 0.000  1.000 -0.000	0.0125 0.2519
+VT	 -22.307    0.055    1.901	 0.000  1.000 -0.000	0.0097 0.9045
+VT	  11.726    0.055   20.254	 0.000  1.000 -0.000	0.2912 -0.0174
+
+IDX10	0 1 2 3 4 0 5 6 3 5
+IDX	3
+IDX	0
+IDX	5
+IDX	0
+IDX	2
+IDX	5
+IDX	2
+IDX	7
+
+#ATTR_no_blend
+
+ATTR_draped
+ATTR_no_shadow#ATTR_shiny_rat	1.000
+TRIS	0 18
