@@ -1,0 +1,24 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object 4fb42daa4434da0bb1a82eaef7b74164 in file VVTS_ADE9_ADE.BGL scaled x2.2
+
+TEXTURE		tree_3.dds
+POINT_COUNTS	4 0 0 6
+
+VT	  -3.969    0.009   -0.000	 0.000  0.000 -1.000	0.6905 0.8664
+VT	  -3.969    2.851   -0.000	 0.000  0.000 -1.000	0.6905 0.9958
+VT	   3.969    0.009   -0.000	 0.000  0.000 -1.000	0.3300 0.8664
+VT	   3.969    2.851   -0.000	 0.000  0.000 -1.000	0.3300 0.9958
+
+IDX	2
+IDX	3
+IDX	1
+IDX	1
+IDX	0
+IDX	2
+
+ATTR_no_blend
+
+TRIS	0 6

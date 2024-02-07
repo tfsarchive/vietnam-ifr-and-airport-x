@@ -1,0 +1,25 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object 3366c289923d460b81871236423ca3d4 in file service_car.bgl scaled x1.2
+
+TEXTURE	
+TEXTURE_DRAPED	reflec.dds
+POINT_COUNTS	4 0 0 6
+
+VT	  -2.534    0.024   -4.243	 0.000  1.000 -0.000	0.0000 1.0000
+VT	  -2.534    0.024    4.632	 0.000  1.000 -0.000	0.0000 0.0000
+VT	   2.342    0.024   -4.238	 0.000  1.000 -0.000	1.0000 1.0000
+VT	   2.342    0.024    4.637	 0.000  1.000 -0.000	1.0000 0.0000
+
+IDX	1
+IDX	0
+IDX	2
+IDX	2
+IDX	3
+IDX	1
+
+ATTR_LOD_draped	70
+ATTR_draped
+TRIS	0 6

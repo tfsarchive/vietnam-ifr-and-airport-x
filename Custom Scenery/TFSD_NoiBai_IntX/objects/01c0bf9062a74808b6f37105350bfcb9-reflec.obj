@@ -1,0 +1,24 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object 01c0bf9062a74808b6f37105350bfcb9 in file animated_objects.bgl
+
+TEXTURE		reflec.dds
+POINT_COUNTS	4 0 0 6
+
+VT	  -0.574   -2.375   -0.795	 0.000  0.000  1.000	0.0005 0.0005
+VT	  -0.574    2.533   -0.795	 0.000  0.000  1.000	0.0005 0.9995
+VT	   2.126   -2.375   -0.795	 0.000  0.000  1.000	0.9995 0.0005
+VT	   2.126    2.533   -0.795	 0.000  0.000  1.000	0.9995 0.9995
+
+IDX	0
+IDX	1
+IDX	3
+IDX	3
+IDX	2
+IDX	0
+
+ATTR_no_blend
+
+TRIS	0 6

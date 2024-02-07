@@ -1,0 +1,24 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object 8b7c9f05ad9a4b6581bdf95f2d448d1b in file vvts_trees.bgl scaled x0.6
+
+TEXTURE		tree_1.dds
+POINT_COUNTS	4 0 0 6
+
+VT	  -3.000    0.000   -0.000	 0.000  0.000 -1.000	0.9980 0.5022
+VT	  -3.000    6.000   -0.000	 0.000  0.000 -1.000	0.9980 1.0002
+VT	   3.000    0.000   -0.000	 0.000  0.000 -1.000	0.5000 0.5022
+VT	   3.000    6.000   -0.000	 0.000  0.000 -1.000	0.5000 1.0002
+
+IDX	2
+IDX	3
+IDX	1
+IDX	1
+IDX	0
+IDX	2
+
+ATTR_no_blend
+
+TRIS	0 6

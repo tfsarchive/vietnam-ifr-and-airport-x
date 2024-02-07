@@ -1,0 +1,25 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object 19fb0e65bd174d8cbc4b578f04356520 in file pushback_cars.bgl
+
+TEXTURE	
+TEXTURE_DRAPED	reflec.dds
+POINT_COUNTS	4 0 0 6
+
+VT	  -2.584    0.024   -4.400	 0.000  1.000 -0.000	0.0000 1.0000
+VT	  -2.584    0.024    4.108	 0.000  1.000 -0.000	0.0000 0.0000
+VT	   2.524    0.024   -4.400	 0.000  1.000 -0.000	1.0000 1.0000
+VT	   2.524    0.024    4.108	 0.000  1.000 -0.000	1.0000 0.0000
+
+IDX	1
+IDX	0
+IDX	2
+IDX	2
+IDX	3
+IDX	1
+
+ATTR_LOD_draped	80
+ATTR_draped
+TRIS	0 6

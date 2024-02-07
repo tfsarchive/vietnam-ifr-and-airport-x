@@ -1,0 +1,13 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object 90be12e6960049f790fce348ff5170b1 in file reil.bgl scaled x1.1
+
+TEXTURE	
+POINT_COUNTS	0 0 2 0
+
+VLIGHT	 -25.484    0.000   -0.184	 0.500  0.480  0.427
+VLIGHT	  25.116    0.000   -0.184	 0.500  0.480  0.427
+
+LIGHTS	0 2

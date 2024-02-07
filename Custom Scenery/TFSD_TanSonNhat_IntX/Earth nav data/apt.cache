@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<apt sam="false" revision="6" sam_path="C:\Program Files\X-plane 11\Custom Scenery\TFSD_TanSonNhat_IntX\sam.xml">
+	<plugin_config sam="2.2.2" GlobalTrees="1.0.2" StaticAircrafts="1.0.4" />
+</apt>

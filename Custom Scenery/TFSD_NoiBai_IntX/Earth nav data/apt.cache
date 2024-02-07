@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<apt sam="false" revision="6" sam_path="C:\Program Files\X-plane 11\Custom Scenery\TFSD_NoiBai_IntX\sam.xml">
+	<plugin_config sam="2.2.2" GlobalTrees="1.0.2" StaticAircrafts="1.0.4" />
+	<airport name="Noi Bai Intl" icao="VVNB" iata="" elevation="39" latitude="21.221666667000001" longitude="105.805555556">
+		<startup_location latitude="21.21537335" longitude="105.80679627000001" heading="-72.849999999999994" name="Gate 11" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.214773770000001" longitude="105.80659554" heading="-72.849999999999994" name="Gate 12" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21593639" longitude="105.8018371" heading="-163.53999999999999" name="Gate 24" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.217341399999999" longitude="105.79975288999999" heading="-73.709999999999994" name="Gate 25" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.216876540000001" longitude="105.79957391000001" heading="-73.709999999999994" name="Gate 26" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.216703949999999" longitude="105.79953195" heading="-73.709999999999994" name="Gate 27" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.215613080000001" longitude="105.80248521999999" heading="-163.53999999999999" name="Gate 22" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.215405369999999" longitude="105.80320587999999" heading="-163.53999999999999" name="Gate 20" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.215812039999999" longitude="105.80394024" heading="-138.21000000000001" name="Gate 19" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.215898589999998" longitude="105.80486685" heading="-115.09" name="Gate 18" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.215589739999999" longitude="105.80520543" heading="-76.790000000000006" name="Gate 17" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21498459" longitude="105.8050781" heading="-54.359999999999999" name="Gate 16" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.214316920000002" longitude="105.80467623" heading="-69.209999999999994" name="Gate 15" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.214158879999999" longitude="105.80635052" heading="-72.849999999999994" name="Gate 14" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.213458169999999" longitude="105.80824655000001" heading="107.90000000000001" name="Gate 10" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.213610060000001" longitude="105.80830068" heading="107.90000000000001" name="Gate 9" airline_code="" type="tie_down" width_code="e" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="21.21383793" longitude="105.80835768999999" heading="107.90000000000001" name="Gate 8" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.214224680000001" longitude="105.80847045" heading="107.90000000000001" name="Gate 7" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21436533" longitude="105.80852528" heading="107.90000000000001" name="Gate 6" airline_code="" type="tie_down" width_code="e" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+		</startup_location>
+		<startup_location latitude="21.214573850000001" longitude="105.80860130000001" heading="107.90000000000001" name="Gate 5" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21444589" longitude="105.81012963000001" heading="-166.16" name="Gate 1" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.214581880000001" longitude="105.80969481" heading="-166.16" name="Gate 2" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.222317919999998" longitude="105.78601922999999" heading="-162.19999999999999" name="Gate 56" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.22222944" longitude="105.78631645" heading="-162.19999999999999" name="Gate 55" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.222136670000001" longitude="105.78663387" heading="-162.19999999999999" name="Gate 54" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.22079544" longitude="105.78642911" heading="-162.19999999999999" name="Gate 53" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.220514829999999" longitude="105.78711522" heading="-162.19999999999999" name="Gate 52" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.22030543" longitude="105.78785653" heading="-162.19999999999999" name="Gate 51" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.22005806" longitude="105.78857831000001" heading="-162.19999999999999" name="Gate 50" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21988915" longitude="105.78924979999999" heading="-162.19999999999999" name="Gate 49" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.219698609999998" longitude="105.78993232000001" heading="-162.19999999999999" name="Gate 47" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21945406" longitude="105.79076837" heading="-162.19999999999999" name="Gate 44" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21923258" longitude="105.79145234000001" heading="-163.44" name="Gate 42" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.219056479999999" longitude="105.79212726" heading="-162.30000000000001" name="Gate 41" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.218865170000001" longitude="105.79279416999999" heading="-163.03" name="Gate 40" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.218689699999999" longitude="105.79345339" heading="-161.88999999999999" name="Gate 39" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.218505929999999" longitude="105.79411252" heading="-166.16" name="Gate 37" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.218211449999998" longitude="105.79497904" heading="-166.16" name="Gate 34" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21803731" longitude="105.79564363" heading="-166.16" name="Gate 32" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.217852449999999" longitude="105.79630595" heading="-166.16" name="Gate 31" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.217631069999999" longitude="105.79698532" heading="-166.16" name="Gate 30" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.217419769999999" longitude="105.79772323" heading="-166.16" name="Gate 29" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.217233350000001" longitude="105.79842871" heading="-166.16" name="Gate 28" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.214671540000001" longitude="105.80937654" heading="-166.16" name="Gate 3" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="21.21494461" longitude="105.80872159" heading="107.90000000000001" name="Gate 4" airline_code="" type="tie_down" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<taxi_routing_network>
+			<taxi_routing_node latitude="21.213969070000001" longitude="105.81445807" type="both" id="0" name="0 S_stop" />
+			<taxi_routing_node latitude="21.215098999999999" longitude="105.81055253" type="both" id="1" name="1 S_stop" />
+			<taxi_routing_node latitude="21.216266780000002" longitude="105.80651619" type="both" id="2" name="2 S_stop" />
+			<taxi_routing_node latitude="21.212199479999999" longitude="105.81386329999999" type="both" id="3" name="3 S_stop" />
+			<taxi_routing_node latitude="21.212289930000001" longitude="105.8133993" type="both" id="4" name="4 S_stop" />
+			<taxi_routing_node latitude="21.21273429" longitude="105.81170358999999" type="both" id="5" name="5 S_stop" />
+			<taxi_routing_node latitude="21.213325739999998" longitude="105.81165889" type="both" id="6" name="6 S_stop" />
+			<taxi_routing_node latitude="21.21372684" longitude="105.81045923000001" type="both" id="7" name="7 S_stop" />
+			<taxi_routing_node latitude="21.214420520000001" longitude="105.81019095000001" type="both" id="8" name="8 S_stop" />
+			<taxi_routing_node latitude="21.21471309" longitude="105.80909758999999" type="both" id="9" name="9 S_stop" />
+			<taxi_routing_node latitude="21.214222329999998" longitude="105.8089761" type="both" id="10" name="10 S_stop" />
+			<taxi_routing_node latitude="21.213382370000001" longitude="105.80853066" type="both" id="11" name="11 S_stop" />
+			<taxi_routing_node latitude="21.21354753" longitude="105.80725507" type="both" id="12" name="12 S_stop" />
+			<taxi_routing_node latitude="21.213745719999999" longitude="105.80640468" type="both" id="13" name="13 S_stop" />
+			<taxi_routing_node latitude="21.213953350000001" longitude="105.80587318000001" type="both" id="14" name="14 S_stop" />
+			<taxi_routing_node latitude="21.213854250000001" longitude="105.80538218" type="both" id="15" name="15 S_start" />
+			<taxi_routing_node latitude="21.214090760000001" longitude="105.80481042" type="both" id="16" name="16 S_stop" />
+			<taxi_routing_node latitude="21.214932950000001" longitude="105.80520412" type="both" id="17" name="17 S_stop" />
+			<taxi_routing_node latitude="21.21593244" longitude="105.80521819000001" type="both" id="18" name="18 S_stop" />
+			<taxi_routing_node latitude="21.216004529999999" longitude="105.80461357" type="both" id="19" name="19 S_stop" />
+			<taxi_routing_node latitude="21.216040580000001" longitude="105.80427259" type="both" id="20" name="20 S_stop" />
+			<taxi_routing_node latitude="21.21545072" longitude="105.80327778" type="both" id="21" name="21 S_stop" />
+			<taxi_routing_node latitude="21.215578520000001" longitude="105.8026591" type="both" id="22" name="22 S_stop" />
+			<taxi_routing_node latitude="21.21581119" longitude="105.80196659000001" type="both" id="23" name="23 S_stop" />
+			<taxi_routing_node latitude="21.215961929999999" longitude="105.80126355" type="both" id="24" name="24 S_stop" />
+			<taxi_routing_node latitude="21.21626024" longitude="105.80008194" type="both" id="25" name="25 S_stop" />
+			<taxi_routing_node latitude="21.21636896" longitude="105.79951339" type="both" id="26" name="26 S_stop" />
+			<taxi_routing_node latitude="21.216620389999999" longitude="105.79859494999999" type="both" id="27" name="27 S_stop" />
+			<taxi_routing_node latitude="21.21670872" longitude="105.7986241" type="both" id="28" name="28 S_stop" />
+			<taxi_routing_node latitude="21.216858219999999" longitude="105.79868971" type="both" id="29" name="29 S_stop" />
+			<taxi_routing_node latitude="21.217021299999999" longitude="105.79866054999999" type="both" id="30" name="30 S_stop" />
+			<taxi_routing_node latitude="21.217089260000002" longitude="105.79847832" type="both" id="31" name="31 S_stop" />
+			<taxi_routing_node latitude="21.2207179" longitude="105.78623579000001" type="both" id="32" name="32 S_stop" />
+			<taxi_routing_node latitude="21.221649549999999" longitude="105.78649346" type="both" id="33" name="33 S_stop" />
+			<taxi_routing_node latitude="21.221910479999998" longitude="105.78672964" type="both" id="34" name="34 S_stop" />
+			<taxi_routing_node latitude="21.221828940000002" longitude="105.78741192" type="both" id="35" name="35 S_stop" />
+			<taxi_routing_node latitude="21.220361180000001" longitude="105.79238909" type="both" id="36" name="36 S_stop" />
+			<taxi_routing_node latitude="21.219346770000001" longitude="105.79590890999999" type="both" id="37" name="37 S_stop" />
+			<taxi_routing_node latitude="21.218629109999998" longitude="105.79833798" type="both" id="38" name="38 S_stop" />
+			<taxi_routing_node latitude="21.217849180000002" longitude="105.80103069" type="both" id="39" name="39 S_stop" />
+			<taxi_routing_node latitude="21.21678743" longitude="105.80466899" type="both" id="40" name="40 S_stop" />
+			<taxi_routing_node latitude="21.21620412" longitude="105.80608212" type="both" id="41" name="41 S_stop" />
+			<taxi_routing_node latitude="21.215817430000001" longitude="105.80614188" type="both" id="42" name="42 S_stop" />
+			<taxi_routing_node latitude="21.2138119" longitude="105.80512950000001" type="both" id="43" name="43 S_start" />
+		</taxi_routing_network>
+	</airport>
+</apt>

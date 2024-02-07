@@ -1,0 +1,31 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object e422754c0ab74f1d957218abb2637b59 in file car_parking_sportlight.bgl scaled x0.6
+
+TEXTURE	
+TEXTURE_DRAPED	reflec.dds
+POINT_COUNTS	4 0 4 6
+
+VLIGHT	   2.090   10.368   -0.010	 0.424  0.276  0.157
+VLIGHT	  -0.012   10.368   -2.090	 0.424  0.276  0.157
+VLIGHT	  -2.072   10.368   -0.014	 0.424  0.276  0.157
+VLIGHT	  -0.002   10.368    2.067	 0.424  0.276  0.157
+
+VT	  -0.965    0.012   -0.965	 0.000  1.000 -0.000	0.0000 1.0000
+VT	  -0.965    0.012    0.965	 0.000  1.000 -0.000	0.0000 0.0000
+VT	   0.965    0.012   -0.965	 0.000  1.000 -0.000	1.0000 1.0000
+VT	   0.965    0.012    0.965	 0.000  1.000 -0.000	1.0000 0.0000
+
+IDX	1
+IDX	0
+IDX	2
+IDX	2
+IDX	3
+IDX	1
+
+ATTR_LOD_draped	50
+ATTR_draped
+LIGHTS	0 4
+TRIS	0 6

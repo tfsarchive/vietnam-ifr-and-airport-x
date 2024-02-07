@@ -1,0 +1,9 @@
+I
+850	# Converted by FS2XPlane 3.26
+DRAPED_POLYGON
+
+TEXTURE_NOWRAP		taxiline.dds
+TEXTURE_LIT_NOWRAP	taxiline_LIT.dds
+SCALE		256 256
+LAYER_GROUP	taxiways +5
+SURFACE		concrete

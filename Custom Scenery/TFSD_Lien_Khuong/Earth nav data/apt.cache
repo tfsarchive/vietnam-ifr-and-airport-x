@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<apt sam="false" revision="6" sam_path="C:\Program Files\X-plane 11\Custom Scenery\TFSD_Lien_Khuong\sam.xml">
+	<plugin_config sam="2.2.2" GlobalTrees="1.0.2" StaticAircrafts="1.0.4" />
+	<airport name="Lien Khuong" icao="VVDL" iata="" elevation="3151" latitude="11.753333333" longitude="108.368055556">
+		<startup_location latitude="11.75000917" longitude="108.3675786" heading="177" name="Gate 1" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="11.7500225" longitude="108.36801981000001" heading="177" name="Gate 2" airline_code="" type="gate" width_code="d" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="11.750043789999999" longitude="108.36848408" heading="177" name="Gate 3" airline_code="" type="gate" width_code="d" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="11.75006286" longitude="108.36885311" heading="177" name="Gate 4" airline_code="" type="gate" width_code="b" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="11.75007926" longitude="108.36904864" heading="177" name="Gate 5" airline_code="" type="gate" width_code="b" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="11.750083800000001" longitude="108.36924395" heading="177" name="Gate 6" airline_code="" type="gate" width_code="b" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="11.75013787" longitude="108.37617498" heading="267" name="Gate 7" airline_code="" type="gate" width_code="c" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="11.750564170000001" longitude="108.37615914" heading="267" name="Gate 8" airline_code="" type="gate" width_code="c" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<taxi_routing_network>
+			<taxi_routing_node latitude="11.750373379999999" longitude="108.36717809" type="both" id="0" name="0 X_stop" />
+			<taxi_routing_node latitude="11.74937824" longitude="108.36730007" type="both" id="1" name="1 bagages_stop" />
+			<taxi_routing_node latitude="11.749383140000001" longitude="108.36742338000001" type="both" id="2" name="2 bagages_stop" />
+			<taxi_routing_node latitude="11.74944676" longitude="108.36743337" type="both" id="3" name="3 bagages_stop" />
+			<taxi_routing_node latitude="11.74954878" longitude="108.36938283000001" type="both" id="4" name="4 bagages_stop" />
+			<taxi_routing_node latitude="11.750312279999999" longitude="108.36934684000001" type="both" id="5" name="5 bagages_stop" />
+			<taxi_routing_node latitude="11.750320110000001" longitude="108.36922686" type="both" id="6" name="6 bagages_stop" />
+			<taxi_routing_node latitude="11.7503162" longitude="108.36903289999999" type="both" id="7" name="7 bagages_stop" />
+			<taxi_routing_node latitude="11.750302489999999" longitude="108.36884094" type="both" id="8" name="8 bagages_stop" />
+			<taxi_routing_node latitude="11.75028187" longitude="108.36847294" type="both" id="9" name="9 bagages_stop" />
+			<taxi_routing_node latitude="11.75025559" longitude="108.36800998" type="both" id="10" name="10 bagages_stop" />
+			<taxi_routing_node latitude="11.750231230000001" longitude="108.36756637000001" type="both" id="11" name="11 bagages_stop" />
+			<taxi_routing_node latitude="11.750225560000001" longitude="108.36716251999999" type="both" id="12" name="12 bagages_stop" />
+			<taxi_routing_node latitude="11.75022581" longitude="108.36718052000001" type="both" id="13" name="13 bagages_stop" />
+			<taxi_routing_node latitude="11.749648199999999" longitude="108.36718027000001" type="both" id="14" name="14 bagages_stop" />
+			<taxi_routing_node latitude="11.74937901" longitude="108.36723581" type="both" id="15" name="15 bagages_start" />
+			<taxi_routing_node latitude="11.74958633" longitude="108.36719103999999" type="both" id="16" name="16 bagages_start" />
+			<taxi_routing_node latitude="11.74963436" longitude="108.3691292" type="both" id="17" name="17 bagages_stop" />
+			<taxi_routing_node latitude="11.74962873" longitude="108.36926453" type="both" id="18" name="18 bagages_stop" />
+			<taxi_routing_node latitude="11.750002869999999" longitude="108.36924289" type="both" id="19" name="19 bagages_stop" />
+			<taxi_routing_node latitude="11.749990690000001" longitude="108.36906045000001" type="both" id="20" name="20 bagages_stop" />
+			<taxi_routing_node latitude="11.74999015" longitude="108.36885651" type="both" id="21" name="21 bagages_stop" />
+			<taxi_routing_node latitude="11.750106199999999" longitude="108.36848277999999" type="both" id="22" name="22 bagages_stop" />
+			<taxi_routing_node latitude="11.75008175" longitude="108.36801610000001" type="both" id="23" name="23 bagages_stop" />
+			<taxi_routing_node latitude="11.750069509999999" longitude="108.36757453" type="both" id="24" name="24 bagages_stop" />
+			<taxi_routing_node latitude="11.75006" longitude="108.36719822000001" type="both" id="25" name="25 bagages_stop" />
+			<taxi_routing_node latitude="11.749648069999999" longitude="108.36721627" type="both" id="26" name="26 bagages_start" />
+			<taxi_routing_node latitude="11.750558079999999" longitude="108.36723206000001" type="both" id="27" name="27 bagages_stop" />
+			<taxi_routing_node latitude="11.750558079999999" longitude="108.36726949" type="both" id="28" name="28 bagages_stop" />
+			<taxi_routing_node latitude="11.7504735" longitude="108.36727813" type="both" id="29" name="29 bagages_stop" />
+			<taxi_routing_node latitude="11.750597539999999" longitude="108.36921307" type="both" id="30" name="30 bagages_stop" />
+			<taxi_routing_node latitude="11.750469750000001" longitude="108.3673761" type="both" id="31" name="31 bagages_stop" />
+			<taxi_routing_node latitude="11.75037676" longitude="108.36922563" type="both" id="32" name="32 bagages_stop" />
+			<taxi_routing_node latitude="11.750378120000001" longitude="108.36903261" type="both" id="33" name="33 bagages_stop" />
+			<taxi_routing_node latitude="11.75037268" longitude="108.36883543" type="both" id="34" name="34 bagages_stop" />
+			<taxi_routing_node latitude="11.750351029999999" longitude="108.36846862" type="both" id="35" name="35 bagages_stop" />
+			<taxi_routing_node latitude="11.75032519" longitude="108.36800312" type="both" id="36" name="36 bagages_stop" />
+			<taxi_routing_node latitude="11.750313439999999" longitude="108.36756401" type="both" id="37" name="37 bagages_stop" />
+			<taxi_routing_node latitude="11.750311099999999" longitude="108.3671489" type="both" id="38" name="38 bagages_stop" />
+			<taxi_routing_node latitude="11.750311269999999" longitude="108.36717911" type="both" id="39" name="39 bagages_stop" />
+			<taxi_routing_node latitude="11.75048024" longitude="108.3671489" type="both" id="40" name="40 bagages_start" />
+			<taxi_routing_node latitude="11.75301707" longitude="108.37659313" type="both" id="41" name="41 E2_stop" />
+			<taxi_routing_node latitude="11.75228579" longitude="108.37649479" type="both" id="42" name="42 E2_stop" />
+			<taxi_routing_node latitude="11.75103829" longitude="108.37592118000001" type="both" id="43" name="43 E2_start" />
+			<taxi_routing_node latitude="11.75217514" longitude="108.37584205" type="both" id="44" name="44 E2_start" />
+			<taxi_routing_node latitude="11.750983590000001" longitude="108.36806889" type="both" id="45" name="45 E1_start" />
+			<taxi_routing_node latitude="11.751750729999999" longitude="108.36803053" type="both" id="46" name="46 E1_start" />
+			<taxi_routing_node latitude="11.752579069999999" longitude="108.36799247" type="both" id="47" name="47 E1_start" />
+			<taxi_routing_node latitude="11.752022220000001" longitude="108.37310974" type="both" id="48" name="48 E_stop" />
+			<taxi_routing_node latitude="11.751808799999999" longitude="108.36914582" type="both" id="49" name="49 E_stop" />
+			<taxi_routing_node latitude="11.75384172" longitude="108.376693" type="both" id="50" name="50 B_stop" />
+			<taxi_routing_node latitude="11.75233424" longitude="108.34691148" type="both" id="51" name="51 B_start" />
+			<taxi_routing_node latitude="11.75339932" longitude="108.36797489" type="both" id="52" name="52 B_start" />
+			<taxi_routing_node latitude="11.75382742" longitude="108.37642662" type="both" id="53" name="53 B_start" />
+			<taxi_routing_edge start_node_id="41" end_node_id="53" direction="twoway" location="taxiway" width_code="c" identifier="E2">
+				<active_zone type="departure">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+				<active_zone type="arrival">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+			</taxi_routing_edge>
+			<taxi_routing_edge start_node_id="42" end_node_id="41" direction="twoway" location="taxiway" width_code="c" identifier="E2" />
+			<taxi_routing_edge start_node_id="44" end_node_id="42" direction="twoway" location="taxiway" width_code="c" identifier="E2" />
+			<taxi_routing_edge start_node_id="46" end_node_id="47" direction="twoway" location="taxiway" width_code="d" identifier="E1" />
+			<taxi_routing_edge start_node_id="47" end_node_id="52" direction="twoway" location="taxiway" width_code="d" identifier="E1">
+				<active_zone type="departure">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+				<active_zone type="arrival">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+			</taxi_routing_edge>
+			<taxi_routing_edge start_node_id="51" end_node_id="52" direction="twoway" location="runway" width_code="f" identifier="09/27">
+				<active_zone type="departure">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+				<active_zone type="arrival">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+				<active_zone type="ils">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+			</taxi_routing_edge>
+			<taxi_routing_edge start_node_id="52" end_node_id="53" direction="twoway" location="runway" width_code="f" identifier="09/27">
+				<active_zone type="departure">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+				<active_zone type="arrival">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+				<active_zone type="ils">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+			</taxi_routing_edge>
+			<taxi_routing_edge start_node_id="53" end_node_id="50" direction="twoway" location="runway" width_code="f" identifier="09/27">
+				<active_zone type="departure">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+				<active_zone type="arrival">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+				<active_zone type="ils">
+					<runway_ref runway="09" />
+					<runway_ref runway="27" />
+				</active_zone>
+			</taxi_routing_edge>
+		</taxi_routing_network>
+	</airport>
+</apt>

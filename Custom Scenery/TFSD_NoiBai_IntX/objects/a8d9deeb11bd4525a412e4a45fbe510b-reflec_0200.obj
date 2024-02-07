@@ -1,0 +1,28 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object a8d9deeb11bd4525a412e4a45fbe510b in file ils.bgl scaled x2.0
+
+TEXTURE	
+TEXTURE_DRAPED	reflec.dds
+POINT_COUNTS	4 0 1 6
+
+VLIGHT	   0.358   11.208   -4.126	 0.398  0.000  0.000
+
+VT	  -3.000    0.040   -3.600	 0.000  1.000 -0.000	0.0005 0.9995
+VT	  -3.000    0.040    3.600	 0.000  1.000 -0.000	0.0005 0.0005
+VT	   3.000    0.040   -3.600	 0.000  1.000 -0.000	0.9995 0.9995
+VT	   3.000    0.040    3.600	 0.000  1.000 -0.000	0.9995 0.0005
+
+IDX	1
+IDX	0
+IDX	2
+IDX	2
+IDX	3
+IDX	1
+
+ATTR_LOD_draped	50
+ATTR_draped
+LIGHTS	0 1
+TRIS	0 6

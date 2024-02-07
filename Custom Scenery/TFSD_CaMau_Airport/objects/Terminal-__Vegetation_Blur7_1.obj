@@ -1,0 +1,24 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object Terminal in file Terminal.BGL
+
+TEXTURE		__Vegetation_Blur7_1.dds
+POINT_COUNTS	4 0 0 6
+
+VT	 -60.991    1.030   29.622	 0.000  1.000 -0.000	25.1185 0.5166
+VT	 -60.991    1.030    8.592	 0.000  1.000 -0.000	25.1185 17.0755
+VT	 -59.456    1.030   29.622	 0.000  1.000 -0.000	23.9093 0.5166
+VT	 -59.456    1.030    8.592	 0.000  1.000 -0.000	23.9093 17.0755
+
+IDX	0
+IDX	1
+IDX	2
+IDX	3
+IDX	2
+IDX	1
+
+ATTR_no_blend
+
+TRIS	0 6

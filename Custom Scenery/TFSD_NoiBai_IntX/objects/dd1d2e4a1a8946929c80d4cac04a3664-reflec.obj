@@ -1,0 +1,25 @@
+I
+800	# Converted by FS2XPlane 3.26
+OBJ
+
+# object dd1d2e4a1a8946929c80d4cac04a3664 in file bus_3.bgl
+
+TEXTURE	
+TEXTURE_DRAPED	reflec.dds
+POINT_COUNTS	4 0 0 6
+
+VT	  -2.756    0.068   -8.100	 0.000  1.000 -0.000	0.0000 1.0000
+VT	  -2.752    0.068    8.100	 0.000  1.000 -0.000	0.0000 0.0000
+VT	   2.752    0.068   -8.100	 0.000  1.000 -0.000	1.0000 1.0000
+VT	   2.756    0.068    8.100	 0.000  1.000 -0.000	1.0000 0.0000
+
+IDX	1
+IDX	0
+IDX	2
+IDX	2
+IDX	3
+IDX	1
+
+ATTR_LOD_draped	110
+ATTR_draped
+TRIS	0 6
