@@ -1973,7 +1973,7 @@ IDX	1730
 IDX	1731
 IDX	1728
 
-ATTR_no_blend
+ATTR_hard
 
 ATTR_shiny_rat	0.196
 TRIS	0 2256

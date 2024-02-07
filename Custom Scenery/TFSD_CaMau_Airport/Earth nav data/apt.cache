@@ -1,208 +1,30 @@
 <?xml version="1.0"?>
-<apt sam="false" revision="4" sam_path="C:\Program Files\X-plane 11\Custom Scenery\TFSD_CaMau_Airport\sam.xml">
-	<airport name="Can Tho Intenational" icao="VVCT" iata="" elevation="7" latitude="0" longitude="4.3281847789999791e-315">
-		<startup_location latitude="10.084507" longitude="105.715616" heading="149.90000000000001" name="GA Ramp 1" airline_code="" type="misc" width_code="b" operation_type="none">
+<apt sam="false" revision="6" sam_path="C:\Program Files\X-plane 11\Custom Scenery\TFSD_CaMau_Airport\sam.xml">
+	<plugin_config sam="2.2.2" GlobalTrees="1.0.2" StaticAircrafts="1.0.4" />
+	<airport name="Ca Mau" icao="VVCM" iata="CAH" elevation="5" latitude="9.1783333329999994" longitude="105.17666666700001">
+		<startup_location latitude="9.1762929599999996" longitude="105.17624401" heading="268.13999999999999" name="Ca Mau Ramp 1" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
 			<airplane_type type="props" />
 			<airplane_type type="helos" />
 		</startup_location>
-		<startup_location latitude="10.084386" longitude="105.715412" heading="149.90000000000001" name="GA Ramp 2" airline_code="" type="misc" width_code="b" operation_type="none">
+		<startup_location latitude="9.1762957099999998" longitude="105.1757386" heading="90.400000000000006" name="Ca Mau Ramp 2" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="turboprops" />
 			<airplane_type type="props" />
 			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.084267000000001" longitude="105.715198" heading="149.90000000000001" name="GA Ramp 3" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.084141000000001" longitude="105.714994" heading="149.90000000000001" name="GA Ramp 4" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.084013000000001" longitude="105.714776" heading="149.90000000000001" name="GA Ramp 5" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.083883" longitude="105.714557" heading="149.90000000000001" name="GA Ramp 6" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.083761000000001" longitude="105.714337" heading="149.90000000000001" name="GA Ramp 7" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.083632" longitude="105.714108" heading="149.90000000000001" name="GA Ramp 8" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.083504" longitude="105.71387799999999" heading="149.90000000000001" name="GA Ramp 9" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.084507" longitude="105.715616" heading="149.90000000000001" name="GA Ramp 1" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.084386" longitude="105.715412" heading="149.90000000000001" name="GA Ramp 2" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.084267000000001" longitude="105.715198" heading="149.90000000000001" name="GA Ramp 3" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.084141000000001" longitude="105.714994" heading="149.90000000000001" name="GA Ramp 4" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.084013000000001" longitude="105.714776" heading="149.90000000000001" name="GA Ramp 5" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.083883" longitude="105.714557" heading="149.90000000000001" name="GA Ramp 6" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.083761000000001" longitude="105.714337" heading="149.90000000000001" name="GA Ramp 7" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.083632" longitude="105.714108" heading="149.90000000000001" name="GA Ramp 8" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.083504" longitude="105.71387799999999" heading="149.90000000000001" name="GA Ramp 9" airline_code="" type="misc" width_code="b" operation_type="none">
-			<airplane_type type="props" />
-			<airplane_type type="helos" />
-		</startup_location>
-		<startup_location latitude="10.08025636" longitude="105.70883191999999" heading="151.12" name="Gate 11" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.080079570000001" longitude="105.70898627" heading="151.12" name="Gate 10" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08044342" longitude="105.70919644" heading="151.12" name="Gate 9" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08035248" longitude="105.70969094" heading="151.12" name="Gate 8" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08085556" longitude="105.70989526" heading="151.12" name="Gate 7" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08076398" longitude="105.71031164999999" heading="151.12" name="Gate 6" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-			<airplane_type type="props" />
-		</startup_location>
-		<startup_location latitude="10.08103653" longitude="105.71029211" heading="151.12" name="Gate 5" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.081702160000001" longitude="105.71233847000001" heading="152.31" name="Gate 1" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08025636" longitude="105.70883191999999" heading="151.12" name="Gate 11" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.080079570000001" longitude="105.70898627" heading="151.12" name="Gate 10" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08044342" longitude="105.70919644" heading="151.12" name="Gate 9" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.080224449999999" longitude="105.70976118999999" heading="151.12" name="Gate 8" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08085556" longitude="105.70989526" heading="151.12" name="Gate 7" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.080615740000001" longitude="105.71039602" heading="151.12" name="Gate 6" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08103653" longitude="105.71029211" heading="151.12" name="Gate 5" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.081162689999999" longitude="105.71103298" heading="149.91999999999999" name="Gate 4" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.08146773" longitude="105.71149172" heading="149.91999999999999" name="Gate 3" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
-		</startup_location>
-		<startup_location latitude="10.081536460000001" longitude="105.71186382" heading="149.91999999999999" name="Gate 2" airline_code="" type="misc" width_code="c" operation_type="none">
-			<airplane_type type="jets" />
-			<airplane_type type="turboprops" />
 		</startup_location>
 		<taxi_routing_network>
-			<taxi_routing_node latitude="10.08802438" longitude="105.72246156" type="both" id="0" name="0 B_stop" />
-			<taxi_routing_node latitude="10.088385730000001" longitude="105.7232133" type="both" id="1" name="1 B_stop" />
-			<taxi_routing_node latitude="10.08867307" longitude="105.72321771999999" type="both" id="2" name="2 B_stop" />
-			<taxi_routing_node latitude="10.08882109" longitude="105.72318233999999" type="both" id="3" name="3 B_stop" />
-			<taxi_routing_node latitude="10.088897279999999" longitude="105.7228728" type="both" id="4" name="4 B_stop" />
-			<taxi_routing_node latitude="10.08897129" longitude="105.72266055" type="both" id="5" name="5 B_stop" />
-			<taxi_routing_node latitude="10.088986520000001" longitude="105.72239523" type="both" id="6" name="6 B_stop" />
-			<taxi_routing_node latitude="10.088945170000001" longitude="105.72221172" type="both" id="7" name="7 B_stop" />
-			<taxi_routing_node latitude="10.08882109" longitude="105.72203042" type="both" id="8" name="8 B_stop" />
-			<taxi_routing_node latitude="10.08831172" longitude="105.7212411" type="both" id="9" name="9 B_stop" />
-			<taxi_routing_node latitude="10.08730671" longitude="105.71957700999999" type="both" id="10" name="10 AA_stop" />
-			<taxi_routing_node latitude="10.08725592" longitude="105.71941855999999" type="both" id="11" name="11 AA_stop" />
-			<taxi_routing_node latitude="10.086401520000001" longitude="105.71781008000001" type="both" id="12" name="12 AA_stop" />
-			<taxi_routing_node latitude="10.08707089" longitude="105.71744710999999" type="both" id="13" name="13 AA_stop" />
-			<taxi_routing_node latitude="10.08647624" longitude="105.72020464000001" type="both" id="14" name="14 AG_stop" />
-			<taxi_routing_node latitude="10.086184169999999" longitude="105.72029628999999" type="both" id="15" name="15 AG_stop" />
-			<taxi_routing_node latitude="10.085968960000001" longitude="105.71997374999999" type="both" id="16" name="16 AG_stop" />
-			<taxi_routing_node latitude="10.085746759999999" longitude="105.71954014000001" type="both" id="17" name="17 AG_stop" />
-			<taxi_routing_node latitude="10.085535930000001" longitude="105.71920249999999" type="both" id="18" name="18 AG_stop" />
-			<taxi_routing_node latitude="10.08534523" longitude="105.71878933000001" type="both" id="19" name="19 AG_stop" />
-			<taxi_routing_node latitude="10.08509241" longitude="105.7183424" type="both" id="20" name="20 AG_stop" />
-			<taxi_routing_node latitude="10.084983060000001" longitude="105.71805362000001" type="both" id="21" name="21 AG_stop" />
-			<taxi_routing_node latitude="10.084841340000001" longitude="105.71774352" type="both" id="22" name="22 AG_stop" />
-			<taxi_routing_node latitude="10.084622639999999" longitude="105.71730814" type="both" id="23" name="23 AG_stop" />
-			<taxi_routing_node latitude="10.084476540000001" longitude="105.71697138" type="both" id="24" name="24 AG_stop" />
-			<taxi_routing_node latitude="10.08436719" longitude="105.71662397" type="both" id="25" name="25 AG_stop" />
-			<taxi_routing_node latitude="10.08431908" longitude="105.71645959" type="both" id="26" name="26 AG_stop" />
-			<taxi_routing_node latitude="10.08428522" longitude="105.71622329" type="both" id="27" name="27 AG_stop" />
-			<taxi_routing_node latitude="10.08425864" longitude="105.7161273" type="both" id="28" name="28 AG_stop" />
-			<taxi_routing_node latitude="10.08318219" longitude="105.71060195" type="both" id="29" name="29 W_stop" />
-			<taxi_routing_node latitude="10.08268015" longitude="105.71091963000001" type="both" id="30" name="30 W_stop" />
-			<taxi_routing_node latitude="10.08248962" longitude="105.71106671" type="both" id="31" name="31 W_stop" />
-			<taxi_routing_node latitude="10.084409239999999" longitude="105.71602698" type="both" id="32" name="32 W_stop" />
-			<taxi_routing_node latitude="10.08311222" longitude="105.71363362" type="both" id="33" name="33 W_stop" />
-			<taxi_routing_node latitude="10.08445459" longitude="105.712869" type="both" id="34" name="34 W_stop" />
-			<taxi_routing_node latitude="10.084104480000001" longitude="105.71221308" type="both" id="35" name="35 W_stop" />
-			<taxi_routing_node latitude="10.08265872" longitude="105.71302008000001" type="both" id="36" name="36 W_stop" />
-			<taxi_routing_node latitude="10.081921100000001" longitude="105.71297472000001" type="both" id="37" name="37 W_stop" />
-			<taxi_routing_node latitude="10.08186441" longitude="105.71291501" type="both" id="38" name="38 W_stop" />
-			<taxi_routing_node latitude="10.081793019999999" longitude="105.71281478" type="both" id="39" name="39 W_stop" />
-			<taxi_routing_node latitude="10.079573659999999" longitude="105.70877599000001" type="both" id="40" name="40 Q_stop" />
-			<taxi_routing_node latitude="10.08017839" longitude="105.70838799000001" type="both" id="41" name="41 Q_stop" />
-			<taxi_routing_node latitude="10.08037188" longitude="105.70827896999999" type="both" id="42" name="42 Q_stop" />
-			<taxi_routing_node latitude="10.080513979999999" longitude="105.70832043" type="both" id="43" name="43 Q_stop" />
-			<taxi_routing_node latitude="10.082025639999999" longitude="105.71102575" type="both" id="44" name="44 Q_stop" />
-			<taxi_routing_node latitude="10.08238693" longitude="105.71162148000001" type="both" id="45" name="45 Q_stop" />
-			<taxi_routing_node latitude="10.082220380000001" longitude="105.71134683" type="both" id="46" name="46 Q_stop" />
-			<taxi_routing_node latitude="10.082558779999999" longitude="105.71193184000001" type="both" id="47" name="47 Q_stop" />
-			<taxi_routing_node latitude="10.08258781" longitude="105.71208108" type="both" id="48" name="48 Q_stop" />
-			<taxi_routing_node latitude="10.08196493" longitude="105.71246701" type="both" id="49" name="49 Q_stop" />
-			<taxi_routing_node latitude="10.081791430000001" longitude="105.71255956" type="both" id="50" name="50 Q_stop" />
-			<taxi_routing_node latitude="10.08166239" longitude="105.71252624" type="both" id="51" name="51 Q_stop" />
-			<taxi_routing_node latitude="10.079567490000001" longitude="105.70883387000001" type="both" id="52" name="52 Q_stop" />
-			<taxi_routing_node latitude="10.079529000000001" longitude="105.70879211" type="both" id="53" name="53 Q_stop" />
-			<taxi_routing_node latitude="10.079423139999999" longitude="105.70871124999999" type="both" id="54" name="54 Q_stop" />
-			<taxi_routing_node latitude="10.07930067" longitude="105.70849357" type="both" id="55" name="55 Q_start" />
+			<taxi_routing_node latitude="9.1757178800000005" longitude="105.17607015999999" type="both" id="0" name="0 B_stop" />
+			<taxi_routing_node latitude="9.1761107400000004" longitude="105.17607502" type="both" id="1" name="1 B_stop" />
+			<taxi_routing_node latitude="9.1766409499999995" longitude="105.17598921" type="both" id="2" name="2 A_stop" />
+			<taxi_routing_node latitude="9.1765977299999992" longitude="105.17600480999999" type="both" id="3" name="3 A_stop" />
+			<taxi_routing_node latitude="9.1765668900000001" longitude="105.17606684" type="both" id="4" name="4 A_stop" />
+			<taxi_routing_node latitude="9.1764372200000004" longitude="105.17614902" type="both" id="5" name="5 A_stop" />
+			<taxi_routing_node latitude="9.1763471499999998" longitude="105.17617491" type="both" id="6" name="6 A_stop" />
+			<taxi_routing_node latitude="9.1762883800000008" longitude="105.17616843" type="both" id="7" name="7 A_stop" />
+			<taxi_routing_node latitude="9.1762934900000008" longitude="105.17590119" type="both" id="8" name="8 A_stop" />
+			<taxi_routing_node latitude="9.1762941300000005" longitude="105.17579055" type="both" id="9" name="9 A_stop" />
+			<taxi_routing_node latitude="9.1761306000000005" longitude="105.17572908" type="both" id="10" name="10 A_start" />
+			<taxi_routing_node latitude="9.1762957099999998" longitude="105.1757386" type="both" id="11" name="11 Ca Mau Ramp 2" />
 		</taxi_routing_network>
 	</airport>
 </apt>
